@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+    </data>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:context=".fragment.zzh_NewFragment">
+
+            <EditText
+                android:id="@+id/name"
+                android:background="@drawable/e1"
+                android:padding="15dp"
+                android:gravity="start"
+                android:hint="充电桩名"
+                android:layout_marginHorizontal="12dp"
+                android:layout_marginVertical="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+            <EditText
+                android:id="@+id/dizhi"
+                android:background="@drawable/e1"
+                android:padding="15dp"
+                android:gravity="start"
+                android:hint="输入地址"
+                android:layout_marginHorizontal="12dp"
+                android:layout_marginVertical="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+            <EditText
+                android:id="@+id/jiage"
+                android:background="@drawable/e1"
+                android:padding="15dp"
+                android:gravity="start"
+                android:hint="输入价格"
+                android:inputType="numberDecimal"
+                android:layout_marginHorizontal="12dp"
+                android:layout_marginVertical="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+            <EditText
+                android:id="@+id/gonglv"
+                android:background="@drawable/e1"
+                android:padding="15dp"
+                android:gravity="start"
+                android:hint="输入功率"
+                android:inputType="number"
+                android:layout_marginHorizontal="12dp"
+                android:layout_marginVertical="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+            <EditText
+                android:id="@+id/tijiao"
+                android:background="@drawable/e1"
+                android:padding="15dp"
+                android:gravity="center"
+                android:hint="提交"
+                android:backgroundTint="?colorPrimary"
+                android:textColor="#ffffff"
+                android:layout_marginHorizontal="12dp"
+                android:layout_marginVertical="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</layout>

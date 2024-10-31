@@ -1,0 +1,135 @@
+[
+  {
+    "id": "桩-0001",
+    "location": "A区",
+    "pricePerKw": 1.5,
+    "powerOutput": "120kW",
+    "isOccupied": false
+  },
+  {
+    "id": "桩-0002",
+    "location": "D区",
+    "pricePerKw": 1.8,
+    "powerOutput": "180kW",
+    "isOccupied": true
+  },
+  {
+    "id": "桩-0003",
+    "location": "C区",
+    "pricePerKw": 1.2,
+    "powerOutput": "60kW",
+    "isOccupied": false
+  },
+  {
+    "id": "桩-0004",
+    "location": "F区",
+    "pricePerKw": 1.5,
+    "powerOutput": "100kW",
+    "isOccupied": true
+  },
+  {
+    "id": "桩-0005",
+    "location": "A区",
+    "pricePerKw": 1.0,
+    "powerOutput": "40kW",
+    "isOccupied": false
+  },
+  {
+    "id": "桩-0006",
+    "location": "A区",
+    "pricePerKw": 1.6,
+    "powerOutput": "80kW",
+    "isOccupied": false
+  },
+  {
+    "id": "桩-0007",
+    "location": "A区",
+    "pricePerKw": 1.3,
+    "powerOutput": "200kW",
+    "isOccupied": true
+  },
+  {
+    "id": "桩-0008",
+    "location": "F区",
+    "pricePerKw": 1.1,
+    "powerOutput": "20kW",
+    "isOccupied": false
+  },
+  {
+    "id": "桩-0009",
+    "location": "A区",
+    "pricePerKw": 1.4,
+    "powerOutput": "50kW",
+    "isOccupied": true
+  },
+  {
+    "id": "桩-0010",
+    "location": "A区",
+    "pricePerKw": 1.2,
+    "powerOutput": "30kW",
+    "isOccupied": false
+  },
+  {
+    "id": "桩-0011",
+    "location": "F区",
+    "pricePerKw": 1.5,
+    "powerOutput": "70kW",
+    "isOccupied": false
+  },
+  {
+    "id": "桩-0012",
+    "location": "A区",
+    "pricePerKw": 1.8,
+    "powerOutput": "90kW",
+    "isOccupied": true
+  },
+  {
+    "id": "桩-0013",
+    "location": "B区",
+    "pricePerKw": 1.2,
+    "powerOutput": "110kW",
+    "isOccupied": false
+  },
+  {
+    "id": "桩-0014",
+    "location": "A区",
+    "pricePerKw": 1.5,
+    "powerOutput": "130kW",
+    "isOccupied": true
+  },
+  {
+    "id": "桩-0015",
+    "location": "A区",
+    "pricePerKw": 1.0,
+    "powerOutput": "150kW",
+    "isOccupied": false
+  },
+  {
+    "id": "桩-0016",
+    "location": "A区",
+    "pricePerKw": 1.6,
+    "powerOutput": "170kW",
+    "isOccupied": false
+  },
+  {
+    "id": "桩-0017",
+    "location": "B区",
+    "pricePerKw": 1.3,
+    "powerOutput": "190kW",
+    "isOccupied": true
+  },
+  {
+    "id": "桩-0018",
+    "location": "A区",
+    "pricePerKw": 1.1,
+    "powerOutput": "210kW",
+    "isOccupied": false
+  },
+  {
+    "id": "桩-0019",
+    "location": "F区",
+    "pricePerKw": 1.4,
+    "powerOutput": "230kW",
+    "isOccupied": true
+  }
+]
