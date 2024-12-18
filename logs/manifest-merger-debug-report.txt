@@ -126,7 +126,7 @@ ADDED from C:\AndroidTool\eCharging\app\src\main\AndroidManifest.xml:38:9-46:20
 	android:name
 		ADDED from C:\AndroidTool\eCharging\app\src\main\AndroidManifest.
 meta-data#FILE_PROVIDER_PATHS
-ADDED from C:\AndroidTool\eCharging\app\src\main\AndroidManifest.xml:43:13-45:49
+ADDED from C:\AndroidTool\eCharging\app\src\main\AndroidManifest.
 	android:resource
 		ADDED from C:\AndroidTool\eCharging\app\src\main\AndroidManifest.
 	android:name
