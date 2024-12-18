@@ -28,7 +28,7 @@ MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\861
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\86158\.gradle\caches\transforms-3\bddab0af0679fb0d111bad1b1869d942\transformed\vectordrawable-1.1.0\AndroidManifest
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\86158\.gradle\caches\transforms-3\86c96a63aae2b13aa77f0b90faa8a784\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.
 
-MERGED from [androidx.print:print:1.0.0] C:\Users\86158\.gradle\caches\transforms-3\b6a68f83a335e20eb219422b0c76045a\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\86158\.gradle\caches\transforms-3\b6a68f83a335e20eb219422b0c76045a\transformed\print-1.0.0\AndroidManifest.
 	package
 		INJECTED from C:\AndroidTool\eCharging\app\src\main\AndroidManifest.
 	android:versionName
